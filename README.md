@@ -62,23 +62,8 @@ IKRU-Event-Management/
 
 ---
 
-## 📸 Screenshots
 
-*(You can add screenshots here)*
 
-```
-![Home Page](assets/images/homepage.png)
-![Registration Page](assets/images/registration.png)
-```
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork this project and submit a pull request.
-
----
 
 ## 🧑‍💻 Author
 
