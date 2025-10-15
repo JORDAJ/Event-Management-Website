@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #96A78D;
+    padding: 20px;
+    line-height: 50px;
+    font-weight: 500;
+    font-family:monospace;
+    font-size: x-large;
+
+}
+
+.form{
+    padding: 10px;
+    margin: 20px;
+
+}
+
+body{
+    background-color: #B6CEB4;
+
+}
+
+.form1{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid none;
+    background-color: #B6CEB4;
+    font-family: monospace;
+}
+
+h2{
+    font-family: monospace  ;
+}
+
+label{
+    font-size: large;
+    font-family: monospace;
+    font-weight: 500;
+}
+ 
+.button{
+    width: 200px;
+    align-items: center;
+    color:white;
+    background-color:rgb(18, 18, 66);
+    font-family: monospace  ;
+}
+
+.button:hover{
+    transition: .5s;
+    transform: scale(1.1);
+}
+
+footer{
+    line-height: 60px;
+    padding: 50px;
+    background-color: #96A78D;
+    text-align: center;
+    font-family: monospace;
+}

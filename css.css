@@ -1,0 +1,92 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #dcdcd7;
+}
+.head{
+    font-size: larger;
+    color: blanchedalmond;
+    background-color: #5D866C;
+    height: 100px;
+    align-content: center;
+    text-align: center;   
+}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #5D866C;; /* Optional: to match the blue bar */ /* Optional: for spacing */
+    justify-content: space-evenly ;
+    text-align: center;
+    
+}
+.links a{
+    text-decoration: none;
+    color: white;
+    font-weight: thick;
+}
+#marquee{
+    background-color: #C2A68C;
+    color: aliceblue;
+    height: 30px;
+    align-content: center;
+    align-items: center;
+}
+img{
+    align-content: center;
+    height: 300px;
+    width: 500px;
+    border-radius: 30px;
+}
+.button{
+    background-color: #E6D8C3;
+    border-radius: 30%;
+    height: 50px;
+    border: black solid;
+} 
+.boxes{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box{
+    border: solid 5px #5D866C;
+    border-radius: 25px;
+    align-items: center;
+    text-align: center;
+    background-color: #E6D8C3;
+    
+}
+.box:hover{
+    background-color: lightblue;
+    transform:scale(1.1);
+    transition: ease-in-out 1s ;
+}
+.special{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.box1 img{
+    height: 300px;
+    width: 400px;
+    box-shadow: 10px 10px 10px lightblue;
+
+}
+.box1 img:hover{
+    transform:scale(1.1);
+    transition: ease-in-out 0.5s ;
+
+}
+.box1 h3{
+    text-align: center;
+}
+.footer{
+    line-height: 20px;
+    text-align: center;
+    background-color: #5D866C ;
+    height: 120px   ;
+    padding: 20px;
+    color: white;
+}
